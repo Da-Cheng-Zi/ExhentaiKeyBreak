@@ -1,0 +1,14 @@
+E:\c++y\ExBreak\ExBreak\bin\Release\ExBreak.exe.config
+E:\c++y\ExBreak\ExBreak\bin\Release\ExBreak.exe
+E:\c++y\ExBreak\ExBreak\bin\Release\ExBreak.pdb
+E:\c++y\ExBreak\ExBreak\obj\Release\MainWindow.g.cs
+E:\c++y\ExBreak\ExBreak\obj\Release\App.g.cs
+E:\c++y\ExBreak\ExBreak\obj\Release\ExBreak_MarkupCompile.cache
+E:\c++y\ExBreak\ExBreak\obj\Release\ExBreak_MarkupCompile.lref
+E:\c++y\ExBreak\ExBreak\obj\Release\MainWindow.baml
+E:\c++y\ExBreak\ExBreak\obj\Release\ExBreak.g.resources
+E:\c++y\ExBreak\ExBreak\obj\Release\ExBreak.Properties.Resources.resources
+E:\c++y\ExBreak\ExBreak\obj\Release\ExBreak.csproj.GenerateResource.cache
+E:\c++y\ExBreak\ExBreak\obj\Release\ExBreak.csproj.CoreCompileInputs.cache
+E:\c++y\ExBreak\ExBreak\obj\Release\ExBreak.exe
+E:\c++y\ExBreak\ExBreak\obj\Release\ExBreak.pdb
