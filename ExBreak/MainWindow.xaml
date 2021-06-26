@@ -1,0 +1,22 @@
+﻿<Window x:Class="ExBreak.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExBreak"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Result:" HorizontalAlignment="Left" Height="39" Margin="31,84,0,0" VerticalAlignment="Top" Width="88" FontSize="24"/>
+        <TextBox x:Name="Result" HorizontalAlignment="Left" Height="91" Margin="141,32,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="124" FontSize="16"/>
+        <Button Content="Break!" HorizontalAlignment="Left" Height="51" Margin="372,359,0,0" VerticalAlignment="Top" Width="205" FontSize="24" Click="Button_Click"/>
+        <TextBox x:Name="Num" HorizontalAlignment="Left" Height="41" Margin="199,151,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="124"/>
+        <Label Content="_ipb_member_id:" HorizontalAlignment="Left" Height="41" Margin="31,151,0,0" VerticalAlignment="Top" Width="163" FontSize="19"/>
+        <Label Content="_ipb_pass_hash" HorizontalAlignment="Left" Height="41" Margin="31,243,0,0" VerticalAlignment="Top" Width="163" FontSize="19"/>
+        <TextBox x:Name="HashID" HorizontalAlignment="Left" Height="41" Margin="194,243,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="124"/>
+        <Label Content="igneous:" HorizontalAlignment="Left" Height="41" Margin="31,322,0,0" VerticalAlignment="Top" Width="163" FontSize="19"/>
+        <TextBox x:Name="Igneous" HorizontalAlignment="Left" Height="41" Margin="199,322,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="124"/>
+
+
+    </Grid>
+</Window>
